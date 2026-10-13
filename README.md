@@ -81,3 +81,21 @@ UI: Unity UI, TextMeshPro
 🎯 개발 목적
 
 학교에서 학생들의 자리를 편리하게 배치하고, 무작위 추첨과 직접 배치를 함께 활용할 수 있도록 제작한 프로그램입니다.
+
+## 🚀 다운로드 및 실행
+
+Seats-Assignment는 웹 브라우저와 Windows에서 사용할 수 있습니다.
+
+### 🌐 웹에서 실행
+
+설치 없이 웹 브라우저에서 프로그램을 실행할 수 있습니다.
+
+**[웹 버전 실행하기](https://jwk17.github.io/Seats-Assignment/)**
+
+### 💻 Windows용 다운로드
+
+Windows용 프로그램을 다운로드하여 실행할 수 있습니다.
+
+**[Windows 버전 다운로드](https://github.com/jwk17/Seats-Assignment/releases/latest)**
+
+> Windows 버전은 다운로드한 ZIP 파일의 압축을 해제한 후 `자리 배치.exe`를 실행하세요.
