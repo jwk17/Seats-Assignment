@@ -17,7 +17,7 @@
 학생 수만큼 좌석을 선택한 뒤 자리 배치 버튼을 다시 클릭하면 배치 모드가 종료됩니다.
 
 선택한 좌석에 학생들이 배치됩니다.
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a86a1dde-b34a-4b65-b2d8-291e285f8419" />
+<img alt="Image" src="https://github.com/user-attachments/assets/a86a1dde-b34a-4b65-b2d8-291e285f8419" width="100%"/>
 ## 🔒 자리 고정
 
 자리 고정 버튼을 클릭하면 고정 모드가 시작됩니다.
@@ -48,8 +48,8 @@
 학생 번호는 중복해서 등록할 수 없습니다.
 
 등록 가능한 학생 수는 최대 42명입니다.
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2e369e10-1a6e-457d-9d74-4b898e47719f" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c6462276-5f42-4631-89be-ac410ae7e311" />
+<img alt="Image" src="https://github.com/user-attachments/assets/2e369e10-1a6e-457d-9d74-4b898e47719f" width="100%"/>
+<img alt="Image" src="https://github.com/user-attachments/assets/c6462276-5f42-4631-89be-ac410ae7e311" width="100%"/>
 
 ## 📸 스크린샷 화면
 
@@ -60,7 +60,9 @@
 자리표의 구분선 표시 여부를 설정할 수 있습니다.
 
 돌아가기 버튼을 클릭하면 원래 화면으로 돌아갈 수 있습니다.
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/754827b5-566e-462c-8630-6d8934283e80" />
+<img alt="Image" src="https://github.com/user-attachments/assets/754827b5-566e-462c-8630-6d8934283e80" width="100%"/>
+<img alt="Image" src="https://github.com/user-attachments/assets/4bd181f3-e96f-4a51-976e-f8b717be7979" width="100%"/>
+<img alt="Image" src="https://github.com/user-attachments/assets/c163d335-563b-4660-be55-64e85d14dfb5" width="100%"/>
 
 ## 📖 사용 방법
 
