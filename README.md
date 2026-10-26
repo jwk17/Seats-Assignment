@@ -7,7 +7,7 @@
 자리 추첨 버튼을 클릭하면 학생들의 자리가 무작위로 배치됩니다.
 
 고정된 좌석은 유지되며, 나머지 좌석만 다시 추첨됩니다.
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48837822-3849-4d36-b0e3-c62af9e049f4" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48837822-3849-4d36-b0e3-c62af9e049f4" width="100%"/>
 ## 🪑 자리 배치
 
 자리 배치 버튼을 클릭하면 배치 모드가 시작됩니다.
