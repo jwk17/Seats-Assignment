@@ -7,7 +7,7 @@
 자리 추첨 버튼을 클릭하면 학생들의 자리가 무작위로 배치됩니다.
 
 고정된 좌석은 유지되며, 나머지 좌석만 다시 추첨됩니다.
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48837822-3849-4d36-b0e3-c62af9e049f4" />
 ## 🪑 자리 배치
 
 자리 배치 버튼을 클릭하면 배치 모드가 시작됩니다.
@@ -16,8 +16,8 @@
 
 학생 수만큼 좌석을 선택한 뒤 자리 배치 버튼을 다시 클릭하면 배치 모드가 종료됩니다.
 
-선택한 좌석에 학생들이 순서대로 배치됩니다.
-
+선택한 좌석에 학생들이 배치됩니다.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a86a1dde-b34a-4b65-b2d8-291e285f8419" />
 ## 🔒 자리 고정
 
 자리 고정 버튼을 클릭하면 고정 모드가 시작됩니다.
@@ -29,6 +29,7 @@
 자리 고정 버튼을 다시 클릭하면 고정 모드가 종료됩니다.
 
 고정된 좌석의 학생은 자리 추첨을 해도 자리가 바뀌지 않습니다.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8d7d6bd1-d0a2-4ea5-a37c-54b8987c178b" />
 
 ## 🔢 자리 지정
 
@@ -47,6 +48,8 @@
 학생 번호는 중복해서 등록할 수 없습니다.
 
 등록 가능한 학생 수는 최대 42명입니다.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2e369e10-1a6e-457d-9d74-4b898e47719f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c6462276-5f42-4631-89be-ac410ae7e311" />
 
 ## 📸 스크린샷 화면
 
@@ -57,14 +60,7 @@
 자리표의 구분선 표시 여부를 설정할 수 있습니다.
 
 돌아가기 버튼을 클릭하면 원래 화면으로 돌아갈 수 있습니다.
-
-## 🛠️ 개발 환경
-
-Engine: Unity 6
-
-Language: C#
-
-UI: Unity UI, TextMeshPro
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/754827b5-566e-462c-8630-6d8934283e80" />
 
 ## 📖 사용 방법
 
@@ -78,18 +74,12 @@ UI: Unity UI, TextMeshPro
 
 스크린샷 화면에서 자리표의 줄 수와 구분선을 설정한 뒤 결과를 캡처합니다.
 
-## 🎯 개발 목적
-
-학교에서 학생들의 자리를 편리하게 배치하고, 무작위 추첨과 직접 배치를 함께 활용할 수 있도록 제작한 프로그램입니다.
-
 ## 🚀 다운로드 및 실행
 
-Seats-Assignment는 Windows에서 사용할 수 있습니다.
+Windows에서 사용할 수 있습니다.
 
 
 ### 💻 Windows용 다운로드
-
-Windows용 프로그램을 다운로드하여 실행할 수 있습니다.
 
 **[Windows 버전 다운로드](https://github.com/jwk17/Seats-Assignment/releases/latest)**
 
