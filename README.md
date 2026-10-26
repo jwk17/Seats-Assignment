@@ -29,7 +29,7 @@
 자리 고정 버튼을 다시 클릭하면 고정 모드가 종료됩니다.
 
 고정된 좌석의 학생은 자리 추첨을 해도 자리가 바뀌지 않습니다.
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8d7d6bd1-d0a2-4ea5-a37c-54b8987c178b" />
+<img alt="Image" src="https://github.com/user-attachments/assets/8d7d6bd1-d0a2-4ea5-a37c-54b8987c178b" width="100%"/>
 
 ## 🔢 자리 지정
 
